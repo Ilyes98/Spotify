@@ -1,8 +1,8 @@
 <h1 align="center"> Music App consuming a Spotify Api</h1>
 
 <p align="center">
-    <img src="https://urlz.fr/gJJo" width="700px" />
-    <img src="https://urlz.fr/gJJp" width="700px" />
+    <img src="https://urlz.fr/gNYZ" width="700px" />
+    <img src="https://urlz.fr/gNZ0" width="700px" />
 </p>
 
 <p align="center">
